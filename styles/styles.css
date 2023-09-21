@@ -171,6 +171,7 @@ text-decoration: none
     
         .cabecalho__menu{
             justify-content: center;
+            width: auto;
         }
         .apresentacao{
             flex-direction: column-reverse;
